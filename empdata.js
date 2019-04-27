@@ -1,124 +1,94 @@
 {
   "data": [
     {
-      "name": "James Bond",
-      "designation": "Accountant",
-      "salary": "$170,750",
-      "joining_date": "2011/07/25",
-      "office": "Tokyo",
-      "extension": "8422"
+      "name": "Paper",
+      "ID": "3452",
+      "Price": "$5",
+      "Quantity": "1090"
     },
     {
-      "name": "Brielle Williamson",
-      "designation": "Integration Specialist",
-      "salary": "$372,000",
-      "joining_date": "2012/12/02",
-      "office": "New York",
-      "extension": "4804"
+      "name": "Pens",
+      "ID": "9846",
+      "Price": "$.50",
+      "Quantity": "398"
+   
     },
     {
-      "name": "Ashton Cox",
-      "designation": "Junior Technical Author",
-      "salary": "$86,000",
-      "joining_date": "2009/01/12",
-      "office": "San Francisco",
-      "extension": "1562"
+      "name": "Pencils",
+      "ID": "7462",
+      "Price": "$.25",
+      "Quantity": "763"
     },
     {
-      "name": "Airi Satou",
-      "designation": "Accountant",
-      "salary": "$162,700",
-      "joining_date": "2008/11/28",
-      "office": "Tokyo",
-      "extension": "5407"
+      "name": "Printer Ink",
+      "ID": "4632",
+      "Price": "$50",
+      "Quantity": "6389"
     },
     {
-      "name": "Caesar Vance",
-      "designation": "Pre-Sales Support",
-      "salary": "$106,450",
-      "joining_date": "2011/12/12",
-      "office": "New York",
-      "extension": "8330"
+      "name": "Paper Clips",
+      "ID": "8755",
+      "Price": "$.02",
+      "Quantity": "8753"
     },
     {
-      "name": "Shad Decker",
-      "designation": "Regional Director",
-      "salary": "$183,000",
-      "joining_date": "2008/11/13",
-      "office": "Edinburgh",
-      "extension": "6373"
+      "name": "Tacks",
+      "ID": "9987",
+      "Price": "$.09",
+      "Quantity": "2342"
     },
     {
-      "name": "Cedric Kelly",
-      "designation": "Senior Javascript Developer",
-      "salary": "$433,060",
-      "joining_date": "2012/03/29",
-      "office": "Edinburgh",
-      "extension": "6224"
+      "name": "Note Pad",
+      "ID": "7659",
+      "Price": "$1.23",
+      "Quantity": "89"
     },
     {
-      "name": "Haley Kennedy",
-      "designation": "Senior Marketing Designer",
-      "salary": "$313,500",
-      "joining_date": "2012/12/18",
-      "office": "London",
-      "extension": "3597"
+      "name": "Marker",
+      "ID": "8727",
+      "Price": "$1.40",
+      "Quantity": "652"
+    {
+      "name": "Highlighter",
+      "ID": "8332",
+      "Price": "$2.79",
+      "Quantity": "97"
     },
     {
-      "name": "Colleen Hurst",
-      "designation": "Javascript Developer",
-      "salary": "$205,500",
-      "joining_date": "2009/09/15",
-      "office": "San Francisco",
-      "extension": "2360"
+      "name": "Stamp",
+      "ID": "0987",
+      "Price": "$.49",
+      "Quantity": "8709"
     },
     {
-      "name": "Dai Rios",
-      "designation": "Personnel Lead",
-      "salary": "$217,500",
-      "joining_date": "2012/09/26",
-      "office": "Edinburgh",
-      "extension": "2290"
+      "name": "Binder",
+      "ID": "8125",
+      "Price": "$3",
+      "Quantity": "763"
     },
     {
-      "name": "Herrod Chandler",
-      "designation": "Sales Assistant",
-      "salary": "$137,500",
-      "joining_date": "2012/08/06",
-      "office": "San Francisco",
-      "extension": "9608"
+      "name": "Scissor",
+      "ID": "5643",
+      "Price": "$3.98",
+      "Quantity": "871"
     },
     {
-      "name": "Rhona Davidson",
-      "designation": "Integration Specialist",
-      "salary": "$327,900",
-      "joining_date": "2010/10/14",
-      "office": "Tokyo",
-      "extension": "6200"
+      "name": "Envelope",
+      "ID": "7765",
+      "Price": "$1.02",
+      "Quantity": "231"
     },
     {
-      "name": "Sonya Frost",
-      "designation": "Software Engineer",
-      "salary": "$103,600",
-      "joining_date": "2008/12/13",
-      "office": "Edinburgh",
-      "extension": "1667"
+      "name": "Eraser",
+      "ID": "7333",
+      "Price": "$.76",
+      "Quantity": "887"
     },
     {
-      "name": "Jena Gaines",
-      "designation": "Office Manager",
-      "salary": "$90,560",
-      "joining_date": "2008/12/19",
-      "office": "London",
-      "extension": "3814"
-    },
-    {
-      "name": "Quinn Flynn",
-      "designation": "Support Lead",
-      "salary": "$342,000",
-      "joining_date": "2013/03/03",
-      "office": "Edinburgh",
-      "extension": "9497"
+      "name": "Dry Erase Board",
+      "ID": "9806",
+      "Price": "$343",
+      "Quantity": "90"
     }
   ]
 }
