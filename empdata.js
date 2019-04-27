@@ -48,6 +48,7 @@
       "ID": "8727",
       "Price": "$1.40",
       "Quantity": "652"
+    }
     {
       "name": "Highlighter",
       "ID": "8332",
